@@ -1,1 +1,1 @@
-# Fuentes-Pardo_etal_2022_Horse_mackerel_popgen
+# 2022_Horse_mackerel_popgen
